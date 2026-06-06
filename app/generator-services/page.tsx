@@ -19,6 +19,7 @@ export default function GeneratorServicesPage() {
       <PageHeroSection
         title="Generator Services"
         subtitle="Home and commercial generator installation, hookup, and backup power systems across Palm Beach, Broward & Miami-Dade."
+        bgImage="/images/equipment-2.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Services", href: "/services-page/" },

@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="footer__brand">
           <Link href="/">
             <Image
-              src="/images/logo-image-50.png"
+              src="/Metro-electric-logo-darkbg.png"
               alt="Metro Electric Services & Consulting"
               width={239}
               height={58}

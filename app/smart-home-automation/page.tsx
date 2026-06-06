@@ -19,6 +19,7 @@ export default function SmartHomeAutomationPage() {
       <PageHeroSection
         title="Smart Home Automation"
         subtitle="Professional smart home wiring and automation systems for South Florida homes — Nest, Lutron, Ring, and full house integration."
+        bgImage="/images/service-smart-home.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Services", href: "/services-page/" },

@@ -20,6 +20,7 @@ export default function AboutPage() {
       <PageHeroSection
         title="About Us"
         subtitle="South Florida's trusted electrical contractor since 2003 — residential, commercial, and industrial. Licensed, insured, and bilingual."
+        bgImage="/images/about-electrician.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "About Us" },

@@ -19,6 +19,7 @@ export default function CommercialElectricalPage() {
       <PageHeroSection
         title="Commercial Electrical"
         subtitle="Full-service commercial electrical work for South Florida businesses — new construction, LED retrofits, backup power, and site lighting."
+        bgImage="/images/service-commercial.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Services", href: "/services-page/" },

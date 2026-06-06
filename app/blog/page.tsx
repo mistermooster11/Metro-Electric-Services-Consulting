@@ -17,6 +17,7 @@ export default function BlogPage() {
       <PageHeroSection
         title="Electrical Tips & News"
         subtitle="Guides, tips, and insights from the Metro Electric team — helping South Florida homeowners and businesses make smart electrical decisions."
+        bgImage="/images/service-residential.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Blog" },

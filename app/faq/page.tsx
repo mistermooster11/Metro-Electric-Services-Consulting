@@ -18,6 +18,7 @@ export default function FAQPage() {
       <PageHeroSection
         title="Frequently Asked Questions"
         subtitle="Everything you need to know about our electrical services, process, and service area."
+        bgImage="/images/equipment-3.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "FAQ" },

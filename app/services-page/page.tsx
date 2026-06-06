@@ -17,6 +17,7 @@ export default function ServicesPage() {
       <PageHeroSection
         title="Our Services"
         subtitle="Licensed electrical services for homes, businesses, and industrial facilities across Palm Beach, Broward & Miami-Dade since 2003."
+        bgImage="/images/hero-poster.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Services" },

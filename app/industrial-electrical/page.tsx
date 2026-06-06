@@ -19,6 +19,7 @@ export default function IndustrialElectricalPage() {
       <PageHeroSection
         title="Industrial Electrical"
         subtitle="Industrial electrical work across South Florida — control panels, pump installations, gas stations, car washes, and facility build-outs."
+        bgImage="/images/equipment-1.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Services", href: "/services-page/" },

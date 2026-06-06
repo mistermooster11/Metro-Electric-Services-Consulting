@@ -349,14 +349,22 @@
   overflow: hidden;
 }
 
-/* Background image */
+/* Background image — set via .page-hero__bg child div (per-page override) */
 .page-hero::before {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("/wp-assets/Title-Background-Image-scaled.webp");
   background-position: center center;
   background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 0;
+}
+
+.page-hero__bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center center;
   background-repeat: no-repeat;
   z-index: 0;
 }

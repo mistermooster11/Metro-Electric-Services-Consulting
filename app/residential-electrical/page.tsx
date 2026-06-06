@@ -19,6 +19,7 @@ export default function ResidentialElectricalPage() {
       <PageHeroSection
         title="Residential Electrical"
         subtitle="Licensed electrical work for homes across South Florida — new construction, renovations, panel upgrades, smart home, and more."
+        bgImage="/images/service-residential.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Services", href: "/services-page/" },

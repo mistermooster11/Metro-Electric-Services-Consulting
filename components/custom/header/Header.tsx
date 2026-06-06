@@ -66,7 +66,7 @@ export default function Header() {
         <div className="header__logo">
           <Link href="/">
             <Image
-              src="/logo.png"
+              src="/Metro-electric-logo-lightbg.png"
               alt="Metro Electric Services & Consulting"
               width={200}
               height={44}

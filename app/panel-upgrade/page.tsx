@@ -19,6 +19,7 @@ export default function PanelUpgradePage() {
       <PageHeroSection
         title="Panel Upgrades"
         subtitle="Electrical panel upgrades and replacements for homes and businesses across South Florida — permitted, inspected, done right."
+        bgImage="/images/service-panel.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Services", href: "/services-page/" },
