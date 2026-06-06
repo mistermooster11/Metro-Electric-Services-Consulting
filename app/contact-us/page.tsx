@@ -16,6 +16,7 @@ export default function ContactPage() {
       <PageHeroSection
         title="Contact Us"
         subtitle="Request a free estimate for any electrical project — residential, commercial, or industrial. Serving Palm Beach, Broward & Miami-Dade."
+        bgImage="/images/contact-us.jpg"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Contact" },
