@@ -25,7 +25,7 @@ export const services: Service[] = [
   {
     number: "01",
     title: "Residential Electrical",
-    image: "/images/service-1.png",
+    image: "/images/service-residential.jpg",
     href: "/residential-electrical/",
     width: 535,
     height: 643,
@@ -33,7 +33,7 @@ export const services: Service[] = [
   {
     number: "02",
     title: "Commercial Electrical",
-    image: "/images/service-2.png",
+    image: "/images/service-commercial.jpg",
     href: "/commercial-electrical/",
     width: 535,
     height: 643,
@@ -41,7 +41,7 @@ export const services: Service[] = [
   {
     number: "03",
     title: "Panel Upgrades",
-    image: "/images/service-3.webp",
+    image: "/images/service-panel.jpg",
     href: "/panel-upgrade/",
     width: 535,
     height: 643,
@@ -49,7 +49,7 @@ export const services: Service[] = [
   {
     number: "04",
     title: "Smart Home Automation",
-    image: "/images/service-4.webp",
+    image: "/images/service-smart-home.jpg",
     href: "/smart-home-automation/",
     width: 535,
     height: 643,

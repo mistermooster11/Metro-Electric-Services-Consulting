@@ -83,7 +83,7 @@ export default function AboutSection() {
         <div className="about__media">
           <div className="about__img-wrap">
             <Image
-              src="/images/about-row.webp"
+              src="/images/about-electrician.jpg"
               alt="Metro Electric Services team on the job"
               width={690}
               height={613}

@@ -27,7 +27,7 @@ export default function ResidentialElectricalPage() {
       />
       <ServiceDetailSection
         activeService="Residential Electrical"
-        sidebarImage="/images/service-1.png"
+        sidebarImage="/images/service-residential.jpg"
         sidebarImageWidth={535}
         sidebarImageHeight={643}
         heading="Residential Electrical Services"

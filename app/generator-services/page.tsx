@@ -27,7 +27,7 @@ export default function GeneratorServicesPage() {
       />
       <ServiceDetailSection
         activeService="Generator Services"
-        sidebarImage="/images/service-1.png"
+        sidebarImage="/images/service-residential.jpg"
         sidebarImageWidth={535}
         sidebarImageHeight={643}
         heading="Generator Installation & Backup Power"

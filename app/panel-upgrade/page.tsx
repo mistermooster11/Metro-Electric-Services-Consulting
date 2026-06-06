@@ -27,7 +27,7 @@ export default function PanelUpgradePage() {
       />
       <ServiceDetailSection
         activeService="Panel Upgrades"
-        sidebarImage="/images/service-3.webp"
+        sidebarImage="/images/service-panel.jpg"
         sidebarImageWidth={535}
         sidebarImageHeight={643}
         heading="Electrical Panel Upgrades & Replacements"

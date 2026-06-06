@@ -27,7 +27,7 @@ export default function IndustrialElectricalPage() {
       />
       <ServiceDetailSection
         activeService="Industrial Electrical"
-        sidebarImage="/images/service-3.webp"
+        sidebarImage="/images/service-panel.jpg"
         sidebarImageWidth={535}
         sidebarImageHeight={643}
         heading="Industrial Electrical Services"

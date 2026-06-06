@@ -27,7 +27,7 @@ export default function SmartHomeAutomationPage() {
       />
       <ServiceDetailSection
         activeService="Smart Home Automation"
-        sidebarImage="/images/service-4.webp"
+        sidebarImage="/images/service-smart-home.jpg"
         sidebarImageWidth={535}
         sidebarImageHeight={643}
         heading="Smart Home & House Automation"
